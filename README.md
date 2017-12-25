@@ -106,6 +106,14 @@ PUTVAL "tatooine/ticker-btcxvg/gauge" interval=60.000 1514193797.562:0.217641770
 
 For now, `ticker` supports [Bitstamp][9] and [Bittrex][6].
 
+#### Show your appreciation
+
+If you like the software, feel free to send a tip ;)
+
+Bitcoin: 143xksUgjkCpg4G6ewXR5vkAKaMq9uMsHT
+Ethereum: 0x7144ddbe4c3B43F892534d0B73549e87933FE7bc
+Litecoin: LesCgz7zT1eyaezfMkeAD6Yd2dTMKrzkdU
+
 [1]: https://collectd.org/
 [2]: https://golang.org/
 [3]: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=827759
